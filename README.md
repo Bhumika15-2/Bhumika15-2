@@ -214,15 +214,11 @@
   <section style="margin-top:20px;">
     <h2 style="margin:0 0 8px 0;">✉️ Contact & Socials</h2>
     <div style="display:flex; gap:12px; flex-wrap:wrap;">
-      <a href="https://twitter.com/YOUR_TWITTER" style="text-decoration:none; display:flex; align-items:center; gap:4px;">
-        <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" width="16" height="16" alt="Twitter">
-        Twitter
-      </a>
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none; display:flex; align-items:center; gap:4px;">
+      <a href="https://www.linkedin.com/in/bhumika-s-157600264/" style="text-decoration:none; display:flex; align-items:center; gap:4px;">
         <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" width="16" height="16" alt="LinkedIn">
         LinkedIn
       </a>
-      <a mailto:href="mailto:youremail@example.com" style="text-decoration:none; display:flex; align-items:center; gap:4px;">
+      <a mailto:href="bhumikasomshekar@gmail.com" style="text-decoration:none; display:flex; align-items:center; gap:4px;">
         <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" width="16" height="16" alt="Email">
         Email
       </a>
